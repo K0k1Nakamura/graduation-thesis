@@ -21,7 +21,7 @@
 \usepackage{./stylefile/fancyheadings}
 \usepackage{./stylefile/slashbox}
 \usepackage{./stylefile/subfigure}
-\bibliographystyle{./stylefile/jcustom}
+\bibliographystyle{jplain}
 
 \def\frac#1#2{\genfrac{}{}{}{}{\;#1\;}{\;#2\;}}
 \def\dfrac#1#2{\genfrac{}{}{}{0}{\;#1\;}{\;#2\;}}
@@ -63,7 +63,7 @@
 \begin{document}
 \begin{titlepage}
 \thesis
-{タイトル}
+{IL-RBMの強化学習タスクへの応用}
 {英語のタイトル}
 {萩原 将文 教授}
 {遠山 元道 准教授}
@@ -71,23 +71,18 @@
 {学籍番号 61212346}
 {筒井佑一郎}
 \end{titlepage}
-\pagenumbering{roman} 
-
+\pagenumbering{roan} 
 \contents
-
 \pagenumbering{arabic}
 
 
 \input{./document/0-abstract}
 \input{./document/1-introduction}
-%\input{./document/2-humor}
-%\input{./document/3-system}
-%\input{./document/4-experiment}
-%\input{./document/5-conclusion}
+\input{./document/2-nn}
+\input{./document/3-system}
+\input{./document/4-experiment}
+\input{./document/5-conclusion}
 %\input{./document/6-acknowledgement}
-
-\bibliographystyle{jecon.bst}
-\bibliography{./reference/reference}
 
 \appendix
 
