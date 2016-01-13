@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.12.22)  7 JAN 2016 14:22
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.12.22)  13 JAN 2016 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -394,102 +394,125 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 66.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    ... okay on input line 66.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 78.
  (./main.toc
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-])
+))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2]
-(./document/0-abstract.tex) (./document/1-introduction.tex [1
+ [1
+
+]
+(./document/0-abstract.tex) (./document/3-system.tex [1
 
 ]
 第 1 章
-[2
-
-]) (./document/2-nn.tex
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[3]
-第 2 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 7.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 7.
-[4
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
+File: ./img_dl/rbm.eps Graphic file (type eps)
+<./img_dl/rbm.eps> [2
 
 ]
+Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+
+
+[3]
+Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+
+
+[4]
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [5]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 146.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 146.
+
+
+LaTeX Warning: Citation `DBN' on page 6 undefined on input line 146.
+
+File: ./img_dl/dbn.eps Graphic file (type eps)
+<./img_dl/dbn.eps>
+
+LaTeX Warning: Citation `glw-training' on page 6 undefined on input line 159.
+
+
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [6]
-Overfull \hbox (2.26613pt too wide) in paragraph at lines 68--69
-[]\JY1/mc/m/n/12 こうして事前学習されたネ ッ トワ ークを最後に教師あり学習で学
-習させる \OT1/cmr/m/n/12 (fine-tuning)
- []
-
-) (./document/3-system.tex
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [7]
-第 3 章
-[8
 
-]
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 183.
+
+File: ./myimg/pre_exp1_c.eps Graphic file (type eps)
+<./myimg/pre_exp1_c.eps>
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 198.
+
+File: ./myimg/phase1_1.eps Graphic file (type eps)
+<./myimg/phase1_1.eps>
+File: ./myimg/phase1_3.eps Graphic file (type eps)
+ <./myimg/phase1_3.eps>
+Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+
+
+[8]
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
@@ -501,19 +524,22 @@ Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
-[11]
+[11]) (./document/3.5-system.tex
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
-[12]) (./document/4-experiment.tex
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+[12]
+第 2 章
 
+LaTeX Warning: Reference `sec:ilrbm' on page 13 undefined on input line 3.
 
-[13]
-第 4 章
-[14
+[13
 
 ]
+Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+
+
+[14]
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
@@ -526,17 +552,23 @@ Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [17]
-第 5 章
-) [18
+第 3 章
+) (./main.bbl [18
 
-] (./main.aux) ) 
+]) [19
+
+] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3161 strings out of 493742
- 40294 string characters out of 6151251
- 101958 words of memory out of 5000000
- 6615 multiletter control sequences out of 15000+600000
- 20308 words of font info for 80 fonts, out of 8000000 for 9000
+ 3206 strings out of 493742
+ 40718 string characters out of 6151251
+ 104923 words of memory out of 5000000
+ 6649 multiletter control sequences out of 15000+600000
+ 22504 words of font info for 90 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,11n,29p,755b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,11n,32p,391b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (21 pages, 50892 bytes).
+Output written on main.dvi (21 pages, 47380 bytes).

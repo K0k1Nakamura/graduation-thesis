@@ -59,6 +59,9 @@
 \addtolength{\topmargin}{-15mm}
 \addtolength{\oddsidemargin}{-15mm}
 
+\newcommand{\argmax}{\mathop{\rm argmax}\limits}
+\newcommand{\argmin}{\mathop{\rm argmin}\limits}
+
 
 \begin{document}
 \begin{titlepage}
@@ -77,12 +80,16 @@
 
 
 \input{./document/0-abstract}
-\input{./document/1-introduction}
-\input{./document/2-nn}
+%\input{./document/1-introduction}
+%\input{./document/2-nn}
 \input{./document/3-system}
-\input{./document/4-experiment}
+\input{./document/3.5-system}
+%\input{./document/4-experiment}
 \input{./document/5-conclusion}
 %\input{./document/6-acknowledgement}
+
+%\bibliographystyle{jecon.bst}
+\bibliography{./reference/reference}
 
 \appendix
 

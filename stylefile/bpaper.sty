@@ -114,8 +114,8 @@ to\hsize{\hfil\box\@tempboxa\hfil}
 %
 %\def\fnum@figure{\Large \UTF{0090}} \thefigure}
 %\def\fnum@table{\Large \UTF{0095}\ \thetable}
-\def\fnum@figure{\UTF{0090}図 \thefigure}
-\def\fnum@table{\UTF{0095}表 \thetable}
+\def\fnum@figure{図 \thefigure}
+\def\fnum@table{表 \thetable}
 %
 % \UTF{0081}謝辞
 %
@@ -126,9 +126,9 @@ to\hsize{\hfil\box\@tempboxa\hfil}
 %
 % \UTF{0081}参考文献
 %
-\renewcommand{\bibname}{\UTF{008E}参考文献}
+\renewcommand{\bibname}{参考文献}
 
-\def\thebibliography#1{\chapter*{\UTF{008E}参考文献\markboth{関連書籍}{関連書籍}}
+\def\thebibliography#1{\chapter*{参考文献\markboth{関連書籍}{関連書籍}}
 \pagestyle{fancyplain}\lfoot{}\cfoot{}\rhead{}
 \lhead{\small \gt 参考文献~~}\chead{} \rhead{\thepage}
 \list
@@ -136,7 +136,7 @@ to\hsize{\hfil\box\@tempboxa\hfil}
  \advance\leftmargin\labelsep
  \usecounter{enumi}}
  \def\newblock{\hskip .11em plus .33em minus .07em}
- \addcontentsline{toc}{chapter}{\UTF{008E}参考文献}
+ \addcontentsline{toc}{chapter}{参考文献}
  \sloppy
  \sfcode`\.=1000\relax}
 \let\endthebibliography=\endlist
