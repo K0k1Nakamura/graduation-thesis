@@ -1,26 +1,4 @@
 \contentsline {chapter}{あらまし}{1}
-\contentsline {chapter}{\numberline {第1章}RBM, IL-RBM}{2}
-\contentsline {section}{\numberline {1.1}Restricted Boltzmann Machine}{2}
-\contentsline {subsection}{\numberline {1.1.1}Restricted Boltzmann Machineの概要}{2}
-\contentsline {subsection}{\numberline {1.1.2}RBMの学習}{4}
-\contentsline {subsubsection}{\numberline {1.1.2.1}計算の概略}{4}
-\contentsline {subsubsection}{\numberline {1.1.2.2}Contrastive Divergence法}{5}
-\contentsline {section}{\numberline {1.2}Deep Belief Net}{6}
-\contentsline {section}{\numberline {1.3}Incremental Learning-RBM(IL-RBM)}{8}
-\contentsline {subsection}{\numberline {1.3.1}隠れ層ノード数の自動決定法}{8}
-\contentsline {subsubsection}{\numberline {1.3.1.1}傾斜検出フェーズ}{8}
-\contentsline {subsection}{\numberline {1.3.2}追加学習}{9}
-\contentsline {subsection}{\numberline {1.3.3}システム全体の流れ}{11}
-\contentsline {section}{\numberline {1.4}Incremental Learning-RBM(IL-RBM)}{12}
-\contentsline {subsection}{\numberline {1.4.1}追加学習}{12}
-\contentsline {subsection}{\numberline {1.4.2}未学習データセットの判別}{12}
-\contentsline {chapter}{\numberline {第2章}IL-RBMの強化学習への応用}{13}
-\contentsline {subsection}{\numberline {2.0.1}強化学習}{13}
-\contentsline {subsection}{\numberline {2.0.2}エージェントの概要}{14}
-\contentsline {subsection}{\numberline {2.0.3}未学習データ判定法}{14}
-\contentsline {subsection}{\numberline {2.0.4}データセットの獲得}{15}
-\contentsline {subsubsection}{\numberline {2.0.4.1}勝利データセットの獲得}{15}
-\contentsline {subsubsection}{\numberline {2.0.4.2}サブゴールの獲得}{15}
-\contentsline {subsection}{\numberline {2.0.5}負のネットワーク、負のサブゴール}{16}
-\contentsline {chapter}{\numberline {第3章}結論}{18}
-\contentsline {chapter}{参考文献}{19}
+\contentsline {chapter}{参考文献}{3}
+\contentsline {chapter}{付録}{4}
+\contentsline {chapter}{\numberline {付録A}異なる学習率を用いた予備実験の結果}{4}

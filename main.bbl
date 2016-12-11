@@ -1,8 +1,22 @@
 \begin{thebibliography}{1}
 
-\bibitem{kiso}
-小林一郎.
-\newblock 人工知能の基礎.
-\newblock サイエンス社, 2008.
+\bibitem{gregor2015draw}
+Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Rezende, and Daan Wierstra.
+\newblock Draw: A recurrent neural network for image generation.
+\newblock In {\em Proceedings of The 32nd International Conference on Machine
+  Learning}, pp. 1462--1471, 2015.
+
+\bibitem{radford2015unsupervised}
+Alec Radford, Luke Metz, and Soumith Chintala.
+\newblock Unsupervised representation learning with deep convolutional
+  generative adversarial networks.
+\newblock {\em arXiv preprint arXiv:1511.06434}, 2015.
+
+\bibitem{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  van~den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em Nature}, Vol. 529, No. 7587, pp. 484--489, 2016.
 
 \end{thebibliography}

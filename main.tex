@@ -13,6 +13,7 @@
 \usepackage{epsfig}
 \usepackage{comment}
 \usepackage{longtable}
+\usepackage{here}
 \usepackage{./stylefile/cite}
 \usepackage{./stylefile/jverb}
 \usepackage{./stylefile/here}
@@ -62,17 +63,16 @@
 \newcommand{\argmax}{\mathop{\rm argmax}\limits}
 \newcommand{\argmin}{\mathop{\rm argmin}\limits}
 
-
 \begin{document}
 \begin{titlepage}
 \thesis
-{IL-RBMの強化学習タスクへの応用}
-{英語のタイトル}
+{負の報酬を考慮したIL-RBMの強化学習タスクへの応用}
+{Application of IL-RBM Considering Penalty to Enforcement Learning}
 {萩原 将文 教授}
-{遠山 元道 准教授}
+{今井 倫太 教授}
 {27}
-{学籍番号 61212346}
-{筒井佑一郎}
+{学籍番号 61214423}
+{中村 晃貴}
 \end{titlepage}
 \pagenumbering{roan} 
 \contents
@@ -82,17 +82,18 @@
 \input{./document/0-abstract}
 %\input{./document/1-introduction}
 %\input{./document/2-nn}
-\input{./document/3-system}
-\input{./document/3.5-system}
+%\input{./document/3-system}
+%\input{./document/3.5-system}
 %\input{./document/4-experiment}
-\input{./document/5-conclusion}
-%\input{./document/6-acknowledgement}
+%\input{./document/5-conclusion}
+\input{./document/6-acknowledgement}
 
 %\bibliographystyle{jecon.bst}
 \bibliography{./reference/reference}
 
+
 \appendix
 
-%\input{./document/appendixa}
+\input{./document/appendixa}
 %\input{./document/appendixb}
 \end{document}

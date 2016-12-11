@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.12.22)  13 JAN 2016 17:27
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.12.22)  22 MAR 2016 14:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -308,6 +308,15 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count117
 \LT@p@ftn=\toks22
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count118
+\float@exts=\toks23
+\float@box=\box75
+\@float@everytoks=\toks24
+\@floatcapt=\box76
+)
 (./stylefile/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
@@ -319,14 +328,14 @@ LaTeX Warning: You have requested package `./stylefile/cite',
 Package: cite 2010/09/10  v 5.3
 ) (./stylefile/jverb.sty
 jverb.sty 1.07 --- by 21M, Feb 28 2003
-\jvtabstop=\count118
+\jvtabstop=\count119
 \jvemptylinenarrow=\dimen152
-\jv@curline=\count119
-\jv@curcol=\count120
-\jv@igntabs=\count121
-\jv@tmpcount=\count122
-\jv@igntabcount=\count123
-\jv@onecharbox=\box75
+\jv@curline=\count120
+\jv@curcol=\count121
+\jv@igntabs=\count122
+\jv@tmpcount=\count123
+\jv@igntabcount=\count124
+\jv@onecharbox=\box77
 \jv@spclen=\dimen153
 \jv@hlfbxlen=\dimen154
 ) (./stylefile/here.sty) (./stylefile/bpaper.sty) (./stylefile/epsbox.sty
@@ -346,10 +355,10 @@ Based on EPSF macro package. version 1.2 - Released July 16, 1990
 \pspoints=\dimen165
 \epsfhbpsize=\dimen166
 \epsfvbpsize=\dimen167
-\eps@cnta=\count124
-\eps@cntb=\count125
-\eps@cntc=\count126
-\eps@cntd=\count127
+\eps@cnta=\count125
+\eps@cntb=\count126
+\eps@cntc=\count127
+\eps@cntd=\count128
 \ps@stream=\read2
 ) (./stylefile/fancyheadings.sty
 \headrulewidth=\dimen168
@@ -359,15 +368,15 @@ Based on EPSF macro package. version 1.2 - Released July 16, 1990
 \headwidth=\dimen172
 ) (./stylefile/slashbox.sty
 slashbox style by K.Yasuoka, May 1993.
-\@slashboxa=\box76
-\@slashboxb=\box77
-\@slashboxc=\box78
-\@slashboxwd=\count128
-\@slashboxht=\count129
+\@slashboxa=\box78
+\@slashboxb=\box79
+\@slashboxc=\box80
+\@slashboxwd=\count129
+\@slashboxht=\count130
 \@slashsepl=\dimen173
 \@slashsepr=\dimen174
 ) (./stylefile/subfigure.sty
-\c@subfigure=\count130
+\c@subfigure=\count131
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
@@ -376,7 +385,7 @@ Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen175
 \extrarowheight=\dimen176
-\NC@list=\toks23
+\NC@list=\toks25
 \extratabsurround=\skip53
 \backup@length=\skip54
 )
@@ -385,8 +394,8 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@old@col=\dimen179
 \TX@target=\dimen180
 \TX@delta=\dimen181
-\TX@cols=\count131
-\TX@ftn=\toks24
+\TX@cols=\count132
+\TX@ftn=\toks26
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
@@ -429,64 +438,90 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
+
+[1
+
+] (./document/0-abstract.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 8.
+
+
+LaTeX Warning: Citation `silver2016mastering' on page 1 undefined on input line
+ 8.
+
+) (./document/6-acknowledgement.tex [1
+
+]) (./main.bbl [2
 
 ]
-(./document/0-abstract.tex) (./document/3-system.tex [1
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 6.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 6.
+
+) [3
+
+] (./document/appendixa.tex
+付録 A 
+
+LaTeX Warning: Reference `sec:lr' on page 4 undefined on input line 4.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 8.
+
+File: ./koki/ent001.png Graphic file (type bmp)
+<./koki/ent001.png>
+Overfull \hbox (23.75952pt too wide) in paragraph at lines 10--10
+ [] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 15.
+
+File: ./koki/ent005.png Graphic file (type bmp)
+<./koki/ent005.png>
+Overfull \hbox (23.75952pt too wide) in paragraph at lines 17--17
+ [] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 22.
+
+File: ./koki/err001.png Graphic file (type bmp)
+<./koki/err001.png>
+Overfull \hbox (23.75952pt too wide) in paragraph at lines 24--24
+ [] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 29.
+
+File: ./koki/err005.png Graphic file (type bmp)
+<./koki/err005.png>
+Overfull \hbox (23.75952pt too wide) in paragraph at lines 31--31
+ [] 
+ []
+
+) [4
 
 ]
-第 1 章
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
-File: ./img_dl/rbm.eps Graphic file (type eps)
-<./img_dl/rbm.eps> [2
-
-]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[3]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[4]
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [5]
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 146.
-
-
-LaTeX Warning: Citation `DBN' on page 6 undefined on input line 146.
-
-File: ./img_dl/dbn.eps Graphic file (type eps)
-<./img_dl/dbn.eps>
-
-LaTeX Warning: Citation `glw-training' on page 6 undefined on input line 159.
-
-
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
@@ -495,80 +530,27 @@ Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
 [7]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 183.
-
-File: ./myimg/pre_exp1_c.eps Graphic file (type eps)
-<./myimg/pre_exp1_c.eps>
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 198.
-
-File: ./myimg/phase1_1.eps Graphic file (type eps)
-<./myimg/phase1_1.eps>
-File: ./myimg/phase1_3.eps Graphic file (type eps)
- <./myimg/phase1_3.eps>
 Overfull \vbox (9.45003pt too high) has occurred while \output is active []
 
 
-[8]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
+[8] (./main.aux)
 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-[9]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[10]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[11]) (./document/3.5-system.tex
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[12]
-第 2 章
-
-LaTeX Warning: Reference `sec:ilrbm' on page 13 undefined on input line 3.
-
-[13
-
-]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[14]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[15]
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[16]) (./document/5-conclusion.tex
-Overfull \vbox (9.45003pt too high) has occurred while \output is active []
-
-
-[17]
-第 3 章
-) (./main.bbl [18
-
-]) [19
-
-] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3206 strings out of 493742
- 40718 string characters out of 6151251
- 104923 words of memory out of 5000000
- 6649 multiletter control sequences out of 15000+600000
- 22504 words of font info for 90 fonts, out of 8000000 for 9000
+ 3189 strings out of 493742
+ 40720 string characters out of 6151251
+ 101294 words of memory out of 5000000
+ 6654 multiletter control sequences out of 15000+600000
+ 13425 words of font info for 53 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,11n,32p,391b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,26p,321b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (21 pages, 47380 bytes).
+Output written on main.dvi (10 pages, 7036 bytes).
